@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kushal Shakya</h1>
+<div>
+  <img src="./images/ABoy.gif" width="100">
+  <img src="./images/text.png" width="250">
+</div>
 
-<h3 align="center">:man_student: I have completed my Diploma in Computer-Engineering🎓</h3>
+I'm a self taught Developer from Nepal.
 
-- 🌱 I’m currently learning **Web Development**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://auth.geeksforgeeks.org/user/kushalshakya_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushalshakya_10" height="30" width="40" /></a>
-</p>
+- 💻 I’m currently learning **Web Development**
 
 <h3 align="left">Languages and Tools:</h3>
 
