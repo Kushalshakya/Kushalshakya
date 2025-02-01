@@ -1,35 +1,17 @@
-<style>
-  th {
-    border: none !important;
-  }
-  td{
-    border-width: 1px !important;
-    border-style: solid !important;
-  }
-  h2{
-    font-size: 26px !important;
-  }
-  h3{
-    font-size: 30px !important;
-  }
-  ul li {
-    font-size: 18px;
-  }
-</style>
 <img src="./assets/banner.gif" width="100%" />
 
-<h2>
+<h1>
   👨‍💻 About Me
-</h2>
+</h1>
 
 <ul>
   <li>Undergraduate Student</li>
-  <li>I’m currently learning Web Development</li>
-  <li>I love exploring cybersecurity threats in free time.</li>
+  <li>I’m currently Exploring Web Development in Depth</li>
+  <li>I love exploring cybersecurity threats in free time</li>
   <li>Languages: Nepali, English</li>
 </ul>
 
-<h2 align="left">💻 Languages and Tools</h2>
+<h1 align="left">💻 Languages and Tools</h1>
 <table>
   <tr align="center">
     <td>
